@@ -1,0 +1,5 @@
+{
+    "require": {
+        "zion/wordpress-license-sdk": "*"
+    }
+}
