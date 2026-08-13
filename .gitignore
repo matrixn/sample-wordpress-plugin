@@ -1,0 +1,25 @@
+# WordPress / PHP
+/vendor/
+.dist/
+.deploy/
+/build/
+/.phpunit.cache/
+.phpunit.result.cache
+*.log
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Test and build artifacts
+/node_modules/
+/coverage/
+/dist/
+*.tmp
