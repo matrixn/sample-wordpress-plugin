@@ -14,3 +14,6 @@ This plugin does one thing: it displays the message "Hello World!" on your site.
 ## WordPress Github Integration
 
 Learn about how you can integration [WordPress with Github](https://instawp.com/integrate-wordpress-with-git/) on InstaWP.
+
+
+testing Synology Push Deploy
